@@ -56,8 +56,8 @@ It combines:
 
 The textbook is deployed online using **Vercel**.  
 
-**Live site:** [https://physical-ai-humanoid-robotics-by-mu.vercel.app](https://physical-ai-humanoid-robotics-by-mu.vercel.app)  
-**GitHub repository:** [https://github.com/MustafaRaheel26/Physical_AI_-_Humanoid_Robotics_By_Mustafa.git](https://github.com/MustafaRaheel26/Physical_AI_-_Humanoid_Robotics_By_Mustafa.git)  
+**Live site:** [https://physical-ai-humanoid-robotics-by-mu-ten.vercel.app](https://physical-ai-humanoid-robotics-by-mu.vercel.app)  
+**GitHub repository:** [https://github.com/CodeWithShary/Physical_AI_-_Humanoid_Robotics_By_Muhammad-Shaharyar.git](https://github.com/CodeWithShary/Physical_AI_-_Humanoid_Robotics_By_Muhammad-Shaharyar.git)  
 
 ---
 
@@ -65,6 +65,6 @@ The textbook is deployed online using **Vercel**.
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/MustafaRaheel26/Physical_AI_-_Humanoid_Robotics_By_Mustafa.git
-"# Physical_AI_-_Humanoid_Robotics_By_Muhammad-Shaharyar" 
-"# Physical_AI_-_Humanoid_Robotics_By_Muhammad-Shaharyar" 
+git clone https://github.com/CodeWithShary/Physical_AI_-_Humanoid_Robotics_By_Muhammad-Shaharyar.git
+ 
+
