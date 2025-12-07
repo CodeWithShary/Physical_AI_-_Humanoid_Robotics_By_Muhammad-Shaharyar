@@ -1,5 +1,4 @@
-# Physical AI & Humanoid Robotics Textbook by Mustafa Raheel
-
+# Physical AI & Humanoid Robotics Textbook by Muhammad Shaharyar
 ## Overview
 
 Welcome to the **Physical AI & Humanoid Robotics Textbook**, a modern, interactive online resource for learning **embodied AI and humanoid robotics**. This textbook combines cutting-edge AI, robotics simulation, and practical development to bridge the gap between theory and real-world applications.  
